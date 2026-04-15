@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260415230221LHJIWV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260415230221LX57N2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Misión: Guardianes de la Luz y el Viento</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carla Campo Florido</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776283153960</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1776283251130-6dhahv9dj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la SdA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776283251130-6dhahv9dj</odePageId>
+      <odeBlockId>block-1776283802825-d97fx5gr3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776283251130-6dhahv9dj</odePageId>
+          <odeBlockId>block-1776283802825-d97fx5gr3</odeBlockId>
+          <odeIdeviceId>idevice-1776283802822-uun4pywpv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Por qué esta situación de aprendizaje?</strong><br />En un mundo que necesita cuidar su entorno, es fundamental que desde los 5 años (3º de Infantil) los niños comprendan que la naturaleza nos regala energía limpia.</p>
+<p><strong>Objetivos de aprendizaje:</strong></p>
+<ul>
+<li>Descubrir el Sol y el Viento como fuentes de energía que no contaminan.</li>
+<li>Desarrollar la curiosidad científica mediante la observación del clima.</li>
+<li>Fomentar hábitos sostenibles (apagar luces, aprovechar la luz natural).</li>
+</ul>
+<p><strong>Justificación:</strong><br />Esta SdA conecta con el interés natural de los niños por los fenómenos atmosféricos, utilizando un hilo conductor motivador: "Los Guardianes del Planeta".</p>
+<p><strong>Organización:</strong><br />Etapa: Educación Infantil (3º curso - 5 años).<br /><strong></strong></p>
+<p><strong>Temporalización:</strong></p>
+<p>6 sesiones de 45 minutos repartidas en dos semanas.<br /><strong></strong></p>
+<p><strong>Agrupamientos (DUA):</strong></p>
+<p>Combinaremos el gran grupo (asamblea), pequeños grupos cooperativos (mesas de 4) y trabajo individual para el cuaderno de campo.</p>
+<p><strong>Espacios:</strong></p>
+<p>Aula ordinaria, patio del centro y rincón de la pizarra digital.</p>
+<p><strong>Productos Finales Reales</strong><br />Para que los alumnos demuestren lo aprendido, crearemos:</p>
+<ul>
+<li>Infografía Interactiva: Crearemos juntos un mural digital (en la PDI) donde al tocar un "Sol" suene una canción y al tocar un "Molino" se vea un vídeo de Asturias.</li>
+<li>Vídeo-Resumen: Grabaremos a los niños explicando sus experimentos con los molinillos para enviarlo por WhatsApp/Telegram a las familias.</li>
+</ul>
+<p><strong>Herramientas tecnológicas:</strong></p>
+<ul>
+<li>Docente: eXeLearning para la estructura, Canva para la infografía y cámara del móvil para el vídeo.</li>
+<li>Alumnado: Pizarra Digital Interactiva (PDI) y lupas de mano.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776283802822-uun4pywpv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Por qué esta situación de aprendizaje?</strong><br />En un mundo que necesita cuidar su entorno, es fundamental que desde los 5 años (3º de Infantil) los niños comprendan que la naturaleza nos regala energía limpia.</p>\n<p><strong>Objetivos de aprendizaje:</strong></p>\n<ul>\n<li>Descubrir el Sol y el Viento como fuentes de energía que no contaminan.</li>\n<li>Desarrollar la curiosidad científica mediante la observación del clima.</li>\n<li>Fomentar hábitos sostenibles (apagar luces, aprovechar la luz natural).</li>\n</ul>\n<p><strong>Justificación:</strong><br />Esta SdA conecta con el interés natural de los niños por los fenómenos atmosféricos, utilizando un hilo conductor motivador: \"Los Guardianes del Planeta\".</p>\n<p><strong>Organización:</strong><br />Etapa: Educación Infantil (3º curso - 5 años).<br /><strong></strong></p>\n<p><strong>Temporalización:</strong></p>\n<p>6 sesiones de 45 minutos repartidas en dos semanas.<br /><strong></strong></p>\n<p><strong>Agrupamientos (DUA):</strong></p>\n<p>Combinaremos el gran grupo (asamblea), pequeños grupos cooperativos (mesas de 4) y trabajo individual para el cuaderno de campo.</p>\n<p><strong>Espacios:</strong></p>\n<p>Aula ordinaria, patio del centro y rincón de la pizarra digital.</p>\n<p><strong>Productos Finales Reales</strong><br />Para que los alumnos demuestren lo aprendido, crearemos:</p>\n<ul>\n<li>Infografía Interactiva: Crearemos juntos un mural digital (en la PDI) donde al tocar un \"Sol\" suene una canción y al tocar un \"Molino\" se vea un vídeo de Asturias.</li>\n<li>Vídeo-Resumen: Grabaremos a los niños explicando sus experimentos con los molinillos para enviarlo por WhatsApp/Telegram a las familias.</li>\n</ul>\n<p><strong>Herramientas tecnológicas:</strong></p>\n<ul>\n<li>Docente: eXeLearning para la estructura, Canva para la infografía y cámara del móvil para el vídeo.</li>\n<li>Alumnado: Pizarra Digital Interactiva (PDI) y lupas de mano.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776283263658-yy6dn6916</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776283263658-yy6dn6916</odePageId>
+      <odeBlockId>block-1776283951170-yew5irvfj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776283263658-yy6dn6916</odePageId>
+          <odeBlockId>block-1776283951170-yew5irvfj</odeBlockId>
+          <odeIdeviceId>idevice-1776283951166-34tluk0is</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Por qué es importante esta SdA?</strong></p>
+<p>En la etapa de Infantil, el asombro es la base del aprendizaje. Esta propuesta nace para transformar ese asombro en conciencia ecológica. Queremos que los niños y niñas de 5 años dejen de ver la luz o el viento como algo "que simplemente está ahí" y empiecen a verlos como "amigos que cuidan la Tierra".</p>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Sentir y observar: Identificar el sol y el aire en su día a día.</li>
+<li>Aprender haciendo: Entender que el movimiento del viento se puede convertir en energía (usando molinillos).</li>
+<li>Hábitos responsables: Fomentar el ahorro de energía en el colegio y en casa como parte de su identidad como "Guardianes".</li>
+</ul>
+<p><strong>Relación con los ODS y Retos del Siglo XXI:</strong></p>
+<ul>
+<li>ODS 7: Energía asequible y no contaminante.</li>
+<li>ODS 13: Acción por el clima.</li>
+<li>Reto del S. XXI: Desarrollar el espíritu crítico y el compromiso con la sostenibilidad desde la infancia.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776283951166-34tluk0is","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Por qué es importante esta SdA?</strong></p>\n<p>En la etapa de Infantil, el asombro es la base del aprendizaje. Esta propuesta nace para transformar ese asombro en conciencia ecológica. Queremos que los niños y niñas de 5 años dejen de ver la luz o el viento como algo \"que simplemente está ahí\" y empiecen a verlos como \"amigos que cuidan la Tierra\".</p>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Sentir y observar: Identificar el sol y el aire en su día a día.</li>\n<li>Aprender haciendo: Entender que el movimiento del viento se puede convertir en energía (usando molinillos).</li>\n<li>Hábitos responsables: Fomentar el ahorro de energía en el colegio y en casa como parte de su identidad como \"Guardianes\".</li>\n</ul>\n<p><strong>Relación con los ODS y Retos del Siglo XXI:</strong></p>\n<ul>\n<li>ODS 7: Energía asequible y no contaminante.</li>\n<li>ODS 13: Acción por el clima.</li>\n<li>Reto del S. XXI: Desarrollar el espíritu crítico y el compromiso con la sostenibilidad desde la infancia.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776283272339-v9zxwzbrb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776283272339-v9zxwzbrb</odePageId>
+      <odeBlockId>block-1776284147064-3xb60weft</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776283272339-v9zxwzbrb</odePageId>
+          <odeBlockId>block-1776284147064-3xb60weft</odeBlockId>
+          <odeIdeviceId>idevice-1776284147060-by85hiqsm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Siguiendo el currículo oficial del Principado de Asturias para la etapa de Educación Infantil, esta SdA se vincula con:</p>
+<p><strong>Competencias Clave y Descriptores Operativos (Perfil de Salida):</strong></p>
+<ul>
+<li>Competencia STEM (Ciencia, Tecnología, Ingeniería y Matemáticas): Iniciación en la interpretación del entorno físico y natural. (Descriptores: STEM1, STEM2).</li>
+<li>Competencia Ciudadana (CC): Fomento del compromiso con la sostenibilidad y el cuidado de los ecosistemas asturianos. (Descriptor: CC4).</li>
+<li>Competencia Personal, Social y de Aprender a Aprender (CPSAA): Desarrollo de la curiosidad y la perseverancia en la experimentación. (Descriptor: CPSAA1).</li>
+</ul>
+<p><strong>Áreas implicadas:</strong></p>
+<ul>
+<li>Área 2: Descubrimiento y Exploración del Entorno.</li>
+<li>Área 3: Comunicación y Representación de la Realidad.</li>
+</ul>
+<p><strong>Competencias Específicas (CE):</strong></p>
+<p>CE 2: Interpretar las causas y efectos de algunos fenómenos naturales (viento, luz solar) a través de la experimentación, fomentando actitudes de ecofeminismo y protección del medio natural asturiano.</p>
+<p><strong>Criterios de Evaluación:</strong></p>
+<ul>
+<li>Observar y registrar los cambios climáticos en el aula (uso de la asamblea).</li>
+<li>Reconocer la importancia de la luz del sol para el crecimiento de las plantas y la vida.</li>
+<li>Participar en actividades de experimentación sencillas siguiendo los pasos del método científico (observación y conclusión).</li>
+</ul>
+<p><strong>Saberes Básicos:</strong></p>
+<ul>
+<li>Cultura científica: Iniciación en la actividad científica y uso de herramientas de observación.</li>
+<li>Sostenibilidad y consumo responsable: El aire y el sol como recursos naturales inagotables.</li>
+<li>Entorno natural: Respeto y cuidado de los ecosistemas locales.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776284147060-by85hiqsm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Siguiendo el currículo oficial del Principado de Asturias para la etapa de Educación Infantil, esta SdA se vincula con:</p>\n<p><strong>Competencias Clave y Descriptores Operativos (Perfil de Salida):</strong></p>\n<ul>\n<li>Competencia STEM (Ciencia, Tecnología, Ingeniería y Matemáticas): Iniciación en la interpretación del entorno físico y natural. (Descriptores: STEM1, STEM2).</li>\n<li>Competencia Ciudadana (CC): Fomento del compromiso con la sostenibilidad y el cuidado de los ecosistemas asturianos. (Descriptor: CC4).</li>\n<li>Competencia Personal, Social y de Aprender a Aprender (CPSAA): Desarrollo de la curiosidad y la perseverancia en la experimentación. (Descriptor: CPSAA1).</li>\n</ul>\n<p><strong>Áreas implicadas:</strong></p>\n<ul>\n<li>Área 2: Descubrimiento y Exploración del Entorno.</li>\n<li>Área 3: Comunicación y Representación de la Realidad.</li>\n</ul>\n<p><strong>Competencias Específicas (CE):</strong></p>\n<p>CE 2: Interpretar las causas y efectos de algunos fenómenos naturales (viento, luz solar) a través de la experimentación, fomentando actitudes de ecofeminismo y protección del medio natural asturiano.</p>\n<p><strong>Criterios de Evaluación:</strong></p>\n<ul>\n<li>Observar y registrar los cambios climáticos en el aula (uso de la asamblea).</li>\n<li>Reconocer la importancia de la luz del sol para el crecimiento de las plantas y la vida.</li>\n<li>Participar en actividades de experimentación sencillas siguiendo los pasos del método científico (observación y conclusión).</li>\n</ul>\n<p><strong>Saberes Básicos:</strong></p>\n<ul>\n<li>Cultura científica: Iniciación en la actividad científica y uso de herramientas de observación.</li>\n<li>Sostenibilidad y consumo responsable: El aire y el sol como recursos naturales inagotables.</li>\n<li>Entorno natural: Respeto y cuidado de los ecosistemas locales.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776283286187-pnocmv10m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776283286187-pnocmv10m</odePageId>
+      <odeBlockId>block-1776284433937-9rlne3xqe</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776283286187-pnocmv10m</odePageId>
+          <odeBlockId>block-1776284433937-9rlne3xqe</odeBlockId>
+          <odeIdeviceId>idevice-1776284433935-jku3fy718</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el marco del currículo de Educación Infantil de Asturias, apostamos por un aprendizaje vivencial.</p>
+<p><strong>Metodologías:</strong></p>
+<ul>
+<li>Aprendizaje Basado en el Juego: Utilizaremos el juego como motor de aprendizaje. Los niños y niñas "jugarán" a ser científicos.</li>
+<li>Pensamiento Visual (Visual Thinking): Usaremos pictogramas y dibujos para que los alumnos identifiquen el sol y el viento sin necesidad de leer textos largos.</li>
+</ul>
+<p><strong>Diseño Universal para el Aprendizaje (DUA):</strong></p>
+<ul>
+<li>Representación: Usaremos vídeos, canciones y experimentos reales (tocar el calor del sol en la ventana, sentir el aire de un ventilador o del viento de la calle).</li>
+<li>Acción y Expresión: Los niños podrán demostrar lo que saben pintando, construyendo un molinillo o explicando sus ideas en la asamblea.</li>
+<li>Implicación: El hilo conductor de los "Guardianes de la Energía" mantendrá su curiosidad y motivación alta.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776284433935-jku3fy718","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el marco del currículo de Educación Infantil de Asturias, apostamos por un aprendizaje vivencial.</p>\n<p><strong>Metodologías:</strong></p>\n<ul>\n<li>Aprendizaje Basado en el Juego: Utilizaremos el juego como motor de aprendizaje. Los niños y niñas \"jugarán\" a ser científicos.</li>\n<li>Pensamiento Visual (Visual Thinking): Usaremos pictogramas y dibujos para que los alumnos identifiquen el sol y el viento sin necesidad de leer textos largos.</li>\n</ul>\n<p><strong>Diseño Universal para el Aprendizaje (DUA):</strong></p>\n<ul>\n<li>Representación: Usaremos vídeos, canciones y experimentos reales (tocar el calor del sol en la ventana, sentir el aire de un ventilador o del viento de la calle).</li>\n<li>Acción y Expresión: Los niños podrán demostrar lo que saben pintando, construyendo un molinillo o explicando sus ideas en la asamblea.</li>\n<li>Implicación: El hilo conductor de los \"Guardianes de la Energía\" mantendrá su curiosidad y motivación alta.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776283298963-jqmbqdlag</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776283298963-jqmbqdlag</odePageId>
+      <odeBlockId>block-1776284627656-d8aigmys3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776283298963-jqmbqdlag</odePageId>
+          <odeBlockId>block-1776284627656-d8aigmys3</odeBlockId>
+          <odeIdeviceId>idevice-1776284627655-y7n9m7veu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nuestra misión de los "Guardianes" no se queda solo en nuestra clase, se conecta con la vida del centro de la siguiente manera:</p>
+<ul>
+<li>Programa de Salud y Medio Ambiente: Esta SdA se integra directamente en el cuidado del entorno, promoviendo el ahorro de luz en los pasillos y el patio.</li>
+<li>Proyecto de Biblioteca: Lectura de cuentos relacionados con el Sol, el Viento y la Naturaleza para trabajar la comprensión oral.</li>
+<li>Plan de Digitalización: Uso de la pizarra digital para observar mapas del tiempo de Asturias y ver cómo se mueven los molinos de viento (parques eólicos) de nuestra comunidad.</li>
+<li>Participación de las familias: Pediremos a las familias que nos ayuden a identificar dónde hay placas solares o molinos en sus trayectos por Asturias, enviando fotos al aula.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776284627655-y7n9m7veu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nuestra misión de los \"Guardianes\" no se queda solo en nuestra clase, se conecta con la vida del centro de la siguiente manera:</p>\n<ul>\n<li>Programa de Salud y Medio Ambiente: Esta SdA se integra directamente en el cuidado del entorno, promoviendo el ahorro de luz en los pasillos y el patio.</li>\n<li>Proyecto de Biblioteca: Lectura de cuentos relacionados con el Sol, el Viento y la Naturaleza para trabajar la comprensión oral.</li>\n<li>Plan de Digitalización: Uso de la pizarra digital para observar mapas del tiempo de Asturias y ver cómo se mueven los molinos de viento (parques eólicos) de nuestra comunidad.</li>\n<li>Participación de las familias: Pediremos a las familias que nos ayuden a identificar dónde hay placas solares o molinos en sus trayectos por Asturias, enviando fotos al aula.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776283313610-ad0bui84y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades, productos y herramientas</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades, productos y herramientas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776283313610-ad0bui84y</odePageId>
+      <odeBlockId>block-1776284758544-wbcpb07y6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776283313610-ad0bui84y</odePageId>
+          <odeBlockId>block-1776284758544-wbcpb07y6</odeBlockId>
+          <odeIdeviceId>idevice-1776284758540-mc7uz31qn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Actividad 1: "El Tesoro del Sol"</strong></p>
+<p>Ponemos una cartulina negra en el alféizar de la ventana donde pegue el sol y encima colocamos objetos (una llave, una cuchara, un juguete). Tras un par de horas, los quitamos y vemos cómo el sol ha "dibujado" la silueta aclarando el papel.</p>
+<p><strong>Actividad 2: "Cazadores de Aire"</strong></p>
+<p>Salimos al patio con "detectores de aire" caseros (un palo con cintas de plástico de colores o de papel pinocho). Los niños corren para ver cómo las cintas se mueven y luego se quedan quietos para ver si el viento las mueve solo.</p>
+<p><strong>Actividad 3: "Taller de Molinillos Asturianos"</strong></p>
+<p>Fabricamos un molinillo de papel con un cuadrado de cartulina y una chincheta con tope en un palo de madera. Soplamos para ver la transformación de nuestro aire en movimiento.</p>
+<p><strong>Actividad 4: "El Panel de los Guardianes"</strong></p>
+<p>En una cartulina grande, dibujamos un Sol y un Molino. Cada niño y niña pega un gomet verde si ha recordado apagar la luz del aula al salir al recreo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776284758540-mc7uz31qn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividad 1: \"El Tesoro del Sol\"</strong></p>\n<p>Ponemos una cartulina negra en el alféizar de la ventana donde pegue el sol y encima colocamos objetos (una llave, una cuchara, un juguete). Tras un par de horas, los quitamos y vemos cómo el sol ha \"dibujado\" la silueta aclarando el papel.</p>\n<p><strong>Actividad 2: \"Cazadores de Aire\"</strong></p>\n<p>Salimos al patio con \"detectores de aire\" caseros (un palo con cintas de plástico de colores o de papel pinocho). Los niños corren para ver cómo las cintas se mueven y luego se quedan quietos para ver si el viento las mueve solo.</p>\n<p><strong>Actividad 3: \"Taller de Molinillos Asturianos\"</strong></p>\n<p>Fabricamos un molinillo de papel con un cuadrado de cartulina y una chincheta con tope en un palo de madera. Soplamos para ver la transformación de nuestro aire en movimiento.</p>\n<p><strong>Actividad 4: \"El Panel de los Guardianes\"</strong></p>\n<p>En una cartulina grande, dibujamos un Sol y un Molino. Cada niño y niña pega un gomet verde si ha recordado apagar la luz del aula al salir al recreo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776283333414-rgwji54t8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776283333414-rgwji54t8</odePageId>
+      <odeBlockId>block-1776285594917-c7ynuevi0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776283333414-rgwji54t8</odePageId>
+          <odeBlockId>block-1776285594917-c7ynuevi0</odeBlockId>
+          <odeIdeviceId>idevice-1776285594912-dg9gcv3of</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría y Licencia</strong></p>
+<p>Obra: Misión: Guardianes de la Luz y el Viento.<br />Autora: Carla Campo Florido<br />Licencia: Esta obra está bajo una licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</p>
+<p><strong>Fichero Fuente</strong></p>
+<p>A continuación se facilita el archivo fuente (.elp) para su descarga, edición y adaptación por parte de otros docentes, cumpliendo con los estándares de interoperabilidad.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776285594912-dg9gcv3of","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría y Licencia</strong></p>\n<p>Obra: Misión: Guardianes de la Luz y el Viento.<br />Autora: Carla Campo Florido<br />Licencia: Esta obra está bajo una licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</p>\n<p><strong>Fichero Fuente</strong></p>\n<p>A continuación se facilita el archivo fuente (.elp) para su descarga, edición y adaptación por parte de otros docentes, cumpliendo con los estándares de interoperabilidad.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776283333414-rgwji54t8</odePageId>
+      <odeBlockId>block-1776286316097-dcpar11jc</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776283333414-rgwji54t8</odePageId>
+          <odeBlockId>block-1776286316097-dcpar11jc</odeBlockId>
+          <odeIdeviceId>idevice-1776286316095-yluhjfzym</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Misión: Guardianes de la Luz y el Viento</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Carla Campo Florido</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elp</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
